@@ -1,7 +1,7 @@
 name: Run Hello World
 
 on:
-    Push:
+    push:
 
 jobs:
   run-hello-world:
